@@ -1,0 +1,1277 @@
+PAGE 1
+ 
+1 
+ 
+ 
+ 
+ 
+UNIVERSIDAD PRIVADA DEL 
+NORTE 
+FACULTAD DE INGENIERÍA 
+INGENIERÍA INDUSTRIAL 
+ 
+ 
+ 
+ 
+CURSO: 
+INNOVACIÓN Y EMPRENDIMIENTO 
+TEMA: 
+BOCATTO ALFA  
+“Lo verde también puede ser delicioso” 
+ 
+DOCENTE: 
+Mg. Ing. Víctor Hugo Ramírez Carrillo 
+ 
+ESTUDIANTES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAJAMARCA, SEPTIEMBRE DEL 2026 
+- Durand Julcamoro, Marco Antonio 
+- Gallardo Asencio, Kathia Jamileth 
+- Potosi Quispe, Nataly Jhannely 
+ 
+PAGE 2
+ 
+2 
+ 
+ 
+I. RESUMEN EJECUTIVO 
+Se identificó que la alfalfa es una materia prima disponible en Cajamarca, pero 
+su uso está principalmente relacionado con la alimentación animal y no con la 
+repostería. Al plantear su incorporación en un queque, los consumidores 
+mostraron dudas sobre el sabor vegetal o amargo, la textura, el color, la 
+presentación y el precio. Por ello, el problema consistió en desarrollar un 
+producto innovador que incorporara alfalfa, pero que mantuviera las 
+características agradables de un queque tradicional.                    
+El usuario objetivo está conformado por niños, jóvenes y adultos consumidores 
+de postres y productos de repostería en Cajamarca, especialmente personas que 
+frecuentan cafeterías, pastelerías y establecimientos como Bocatto. En el caso 
+de los niños, también se considera a los padres o cuidadores, debido a que 
+participan en la decisión de compra.                                                          
+La investigación mostró que los consumidores valoran principalmente el sabor, 
+la presentación, el precio y la textura, y que existe curiosidad por probar 
+productos elaborados con ingredientes diferentes.                           
+Se propone desarrollar un queque de alfalfa en porción individual para Bocatto, 
+Cajamarca, utilizando la alfalfa como ingrediente diferenciador y controlando 
+su proporción para evitar un sabor vegetal demasiado intenso. El producto 
+busca tener sabor agradable, textura suave y esponjosa, aroma equilibrado y una 
+presentación atractiva.               
+La propuesta fue desarrollada mediante la metodología Design Thinking, 
+pasando por las etapas de empatizar, definir, idear, prototipar y testear. 
+Los resultados fueron favorables. En la encuesta, el 75 % de los participantes 
+indicó que definitivamente o probablemente probaría el producto, mientras que 
+el 81,2 % manifestó que definitivamente o probablemente lo compraría si 
+estuviera disponible en una cafetería. Además, el 83,9 % señaló una disposición 
+de pago entre S/ 6,50 y S/ 8,50 por tajada.                                
+Durante el testeo, participaron 8 personas y las 8 expresaron una valoración 
+favorable respecto al sabor, textura, aroma, color y presentación del prototipo. 
+Esto representó una aceptación del 100 % dentro del grupo evaluado, aunque el 
+documento señala que será necesario realizar pruebas con una muestra mayor. 
+ 
+ 
+ 
+ 
+ 
+PAGE 3
+ 
+3 
+ 
+II. ÍNDICE  
+ 
+I. RESUMEN EJECUTIVO .......................................................................................................... 2 
+II. ÍNDICE ...................................................................................................................................... 3 
+III. INTRODUCCIÓN: ................................................................................................................ 4 
+Objetivos específicos ...................................................................................................................... 7 
+IV. DESARROLLO DEL PROYECTO ...................................................................................... 7 
+    FASE EMPATIZAR ................................................................................................................... 8 
+         FASE DEFINIR ........................................................................................................................ 15 
+         FASE IDEAR ........................................................................................................................... 17 
+        FASE PROTOTIPAR ............................................................................................................... 19 
+         FASE TESTEAR ...................................................................................................................... 27 
+V. ANÁLISIS DEL PROYECTO ............................................................................................ 31 
+     VIABILIDAD .......................................................................................................................... 31 
+      TÉCNICA ................................................................................................................................ 32 
+       PLAN ECONÓMICO FINANCIERO ................................................................................... 33 
+VI. CONCLUSIONES ............................................................................................................... 39 
+VII. REFERENCIAS BIBLIOGRÁFICAS ................................................................................ 40 
+VIII. ANEXOS: ............................................................................................................................ 41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 4
+ 
+4 
+ 
+III. INTRODUCCIÓN: 
+En los últimos años, la industria alimentaria ha experimentado una transformación 
+importante debido al creciente interés por desarrollar productos innovadores que incorporen 
+materias primas de origen vegetal y que, al mismo tiempo, respondan a las nuevas 
+preferencias de los consumidores. Esta tendencia también se ha extendido al sector de la 
+panadería y repostería, donde se vienen desarrollando productos que combinan ingredientes 
+tradicionales con componentes poco convencionales, buscando generar nuevas experiencias 
+de consumo sin descuidar características fundamentales como el sabor, aroma, textura, 
+apariencia y presentación. Dentro de este contexto, la innovación gastronómica representa 
+una oportunidad para aprovechar recursos agrícolas que tradicionalmente han sido utilizados 
+con otros fines y transformarlos en productos con mayor valor agregado. 
+Una de estas materias primas es la alfalfa (Medicago sativa L.), cultivo ampliamente 
+reconocido por su importancia dentro de la actividad agrícola y ganadera. A nivel mundial, 
+se estima que la alfalfa ocupa aproximadamente 30 millones de hectáreas de culti vo y 
+alcanza una producción cercana a los 450 millones de toneladas. Asimismo, alrededor del 
+41 % de la producción se concentra en América del Norte, el 25 % en Europa, el 23 % en 
+América del Sur y aproximadamente el 8 % en Asia. Estas cifras reflejan la i mportancia 
+productiva de esta especie y su amplia disponibilidad a escala internacional. 
+Aunque la alfalfa se utiliza principalmente como recurso forrajero, también ha despertado 
+interés por sus posibles aplicaciones en productos destinados al consumo humano. Su 
+composición incluye proteínas vegetales, fibra dietética, aminoácidos, vitaminas A , C y K, 
+minerales como calcio y magnesio, además de flavonoides, saponinas y otros compuestos 
+con actividad antioxidante. Asimismo, su contenido de proteína cruda puede situarse 
+aproximadamente entre el 15 % y el 22 %, aunque este valor depende de factore s como la 
+variedad, la parte de la planta, el estado de crecimiento, las condiciones de cultivo y el 
+procesamiento aplicado. 
+Sin embargo, la incorporación de alfalfa en productos de repostería también presenta 
+desafíos relacionados con la aceptación del consumidor. Su sabor vegetal, el posible 
+amargor, la textura fibrosa y el color verde pueden influir en la percepción del produ cto 
+cuando se utiliza en proporciones inadecuadas. Este aspecto resulta especialmente 
+importante en un queque, debido a que el consumidor suele valorar características como la 
+PAGE 5
+ 
+5 
+ 
+suavidad, esponjosidad, dulzor, aroma, humedad y apariencia al momento de decidir si un 
+producto resulta agradable y si estaría dispuesto a volver a comprarlo. 
+En el Perú, la alfalfa representa un cultivo de considerable importancia productiva. Durante 
+2023, la producción nacional alcanzó aproximadamente 7,13 millones de toneladas, mientras 
+que en 2024 aumentó a alrededor de 7,81 millones de toneladas. Para 2025 se registraron 
+aproximadamente 7,79 millones de toneladas. Asimismo, el Ministerio de Desarrollo 
+Agrario y Riego reportó que durante 2024 la producción de alfalfa presentó un crecimiento 
+aproximado de 8,8 % respecto al año anterior. Estas cifras muestran la disponibilidad de esta 
+materia prima en el territorio nacional, aunque su principal utilización continúa relacionada 
+con la alimentación animal y la actividad ganadera. 
+Esta situación permite identificar una oportunidad para estudiar nuevas formas de 
+aprovechamiento. En lugar de limitar su utilización únicamente al sector pecuario, la alfalfa 
+puede ser evaluada como un ingrediente complementario en determinadas preparacio nes 
+alimenticias, siempre que se controle adecuadamente su proporción y se mantengan 
+características sensoriales agradables. En este sentido, la elaboración de un queque 
+representa una alternativa interesante, debido a que permite combinar un producto 
+ampliamente conocido por los consumidores con un ingrediente poco convencional, 
+generando una propuesta diferenciada. 
+A nivel local, esta oportunidad adquiere especial importancia en Cajamarca, región 
+caracterizada por su fuerte relación con las actividades agrícolas, ganaderas y lecheras. Entre 
+enero y agosto de 2024, Cajamarca registró aproximadamente 136 892 toneladas de 
+producción de alfalfa, mientras que durante el mismo periodo de 2025 alcanzó alrededor de 
+130 997 toneladas. Aunque se registró una reducción aproximada del 4,3 %, estas cifras 
+evidencian que la alfalfa continúa teniendo una presencia significativa dent ro de la 
+producción agrícola regional. 
+La relevancia de este cultivo en Cajamarca también se evidencia mediante el seguimiento 
+realizado por instituciones públicas especializadas. Durante la campaña agrícola 2024-2025, 
+el Servicio Nacional de Meteorología e Hidrología del Perú realizó un análisis específico de 
+los cultivos de alfalfa y ryegrass en Cajamarca y Gregorio Pita, considerando variables como 
+temperatura, precipitación y fases de desarrollo. Asimismo, durante agosto de 2025 se 
+registró alfalfa en etapa de brotamiento en la estación Augusto Weberbauer. 
+PAGE 6
+ 
+6 
+ 
+A pesar de esta disponibilidad, el uso de la alfalfa en Cajamarca continúa vinculado 
+principalmente con la actividad pecuaria. Por ello, existe una oportunidad para explorar 
+nuevas alternativas de transformación que permitan generar mayor valor agregado. 
+Paralelamente, dentro del sector de cafeterías y repostería existe una amplia oferta de 
+productos tradicionales como tortas, brownies, galletas, muffins y queques, lo cual hace 
+necesario plantear propuestas diferentes capaces de captar la atención del consu midor 
+mediante nuevos ingredientes, sabores y presentaciones. 
+Dentro de este escenario surge la propuesta de desarrollar un queque de alfalfa para Bocatto, 
+Cajamarca, utilizando esta planta como un ingrediente diferenciador dentro de una 
+preparación de repostería. La propuesta busca combinar las características tradi cionales de 
+un queque, como una textura esponjosa, aroma agradable, dulzor equilibrado y presentación 
+atractiva, con la incorporación controlada de alfalfa. De esta manera, se pretende transformar 
+una materia prima tradicionalmente asociada con la actividad agropecuaria en una propuesta 
+gastronómica orientada a un segmento diferente de consumidores. 
+La importancia del proyecto radica no solamente en desarrollar un nuevo producto, sino 
+también en conocer si los potenciales consumidores aceptarían la incorporación de alfalfa 
+dentro de un postre. La presencia de nutrientes en la planta no garantiza por s í sola la 
+aceptación del producto en el mercado, debido a que factores como el sabor, textura, color, 
+aroma, presentación, tamaño de porción y precio pueden influir directamente en la decisión 
+de compra. Por esta razón, resulta necesario comprender previam ente las necesidades, 
+preferencias, percepciones y preocupaciones de los usuarios. 
+Asimismo, el desarrollo del queque de alfalfa representa una oportunidad para generar valor 
+agregado a partir de una materia prima disponible en Cajamarca. Mientras que 
+tradicionalmente la alfalfa se utiliza principalmente como alimento para animales, su 
+incorporación en un producto de repostería permite explorar una aplicación diferente. No 
+obstante, el aporte nutricional exacto del queque deberá determinarse posteriormente a partir 
+de su formulación final, debido a que el proceso de horneado y la combinac ión con otros 
+ingredientes pueden modificar la concentración de determinados nutrientes. 
+Para desarrollar la propuesta se aplicará la metodología Design Thinking, colocando al 
+usuario en el centro del proceso de innovación. A través de las fases de empatizar, definir, 
+idear, prototipar y testear se recopilará información de los potenciales con sumidores, se 
+identificarán sus principales necesidades y percepciones, se generarán alternativas de 
+PAGE 7
+ 
+7 
+ 
+solución, se elaborará un prototipo y finalmente se evaluará la respuesta de los usuarios. Esto 
+permitirá realizar mejoras progresivas en aspectos como sabor, textura, cantidad de alfalfa, 
+presentación y tamaño de la porción. 
+Por lo tanto, el objetivo del presente proyecto es desarrollar y validar un prototipo de queque 
+de alfalfa como propuesta innovadora de repostería para Bocatto, Cajamarca, mediante la 
+metodología Design Thinking, con la finalidad de identificar las necesidades y preferencias 
+de los potenciales consumidores, evaluar su aceptación y analizar de manera básica su 
+viabilidad de mercado, técnica y económica. De esta forma, se busca determinar si la 
+propuesta presenta condiciones favorables para una posible incorporación dentro de la oferta 
+de Bocatto. 
+Objetivos específicos  
+1. Investigar y definir la oportunidad de innovación en la oferta gastronómica de 
+Bocatto Cafetería mediante el análisis de las necesidades, preferencias y 
+percepciones de los consumidores recopiladas en entrevistas. 
+2. Diseñar y elaborar prototipos de queque de alfalfa integrando las alternativas de 
+formulación generadas para optimizar sus características organolépticas (sabor, 
+textura, aroma) y de presentación. 
+3. Validar la propuesta con usuarios potenciales y evaluar su viabilidad técnica, 
+económica y de mercado, identificando oportunidades de mejora continua a partir 
+de la retroalimentación obtenida. 
+IV. DESARROLLO DEL PROYECTO 
+El desarrollo del presente proyecto se realizará mediante la metodología Design Thinking, 
+un enfoque centrado en el usuario que permite identificar necesidades reales, comprender 
+las preferencias de los consumidores y desarrollar soluciones innovadoras med iante un 
+proceso de validación progresiva. Esta metodología está conformada por cinco fases: 
+empatizar, definir, idear, prototipar y testear, las cuales serán aplicadas de manera secuencial 
+para diseñar, mejorar y evaluar la propuesta del queque de alfalfa para Bocatto, Cajamarca. 
+En la primera fase se buscará conocer a los potenciales consumidores del producto, 
+considerando niños, jóvenes y adultos, así como la percepción de padres o cuidadores cuando 
+se trate del público infantil. Se analizarán sus gustos, hábitos de consumo, nece sidades, 
+expectativas y posibles preocupaciones frente a un producto de repostería elaborado con un 
+PAGE 8
+ 
+8 
+ 
+ingrediente poco convencional como la alfalfa. Posteriormente, la información recopilada 
+será organizada y analizada con la finalidad de identificar los principales problemas y 
+establecer un reto de innovación que responda a las preferencias reales de los usuarios. 
+A partir de los hallazgos obtenidos, se generarán diferentes alternativas de solución y se 
+seleccionará aquella que presente mejores condiciones de aceptación, viabilidad y facilidad 
+de elaboración. Posteriormente, se desarrollará un prototipo del queque d e alfalfa, 
+considerando características como sabor, textura, aroma, color, tamaño de porción y 
+presentación, buscando obtener un producto atractivo para los diferentes grupos de 
+consumidores. 
+Finalmente, el prototipo será sometido a pruebas de validación con usuarios potenciales, con 
+la finalidad de conocer su nivel de aceptación e identificar posibles aspectos de mejora. En 
+el caso del público infantil, se prestará especial atención a la acept ación sensorial del 
+producto y a la opinión de los padres o cuidadores respecto a su presentación e ingredientes. 
+Los resultados obtenidos permitirán realizar las modificaciones necesarias antes de 
+establecer una propuesta final. De esta manera, la aplicac ión de Design Thinking permitirá 
+desarrollar el proyecto a partir de información obtenida directamente de los usuarios y no 
+únicamente de las ideas iniciales del equipo. 
+2.1 FASE EMPATIZAR 
+La fase de empatizar constituye el primer acercamiento con los potenciales usuarios del 
+producto y tiene como finalidad comprender sus necesidades, preferencias, comportamientos 
+y percepciones frente al consumo de postres. En esta etapa se busca evitar que  la propuesta 
+sea desarrollada únicamente a partir de las ideas o suposiciones del equipo, por lo que resulta 
+necesario obtener información directamente de las personas que podrían consumir el 
+producto. 
+Para el presente proyecto, la fase de empatizar estará orientada a conocer la percepción de 
+consumidores actuales y potenciales de Bocatto, Cajamarca, respecto a la posibilidad de 
+incorporar un postre elaborado con alfalfa dentro de su oferta. Se pretende identificar qué 
+características considera importantes al momento de elegir un queque, qué tan dispuestos se 
+encuentran a probar ingredientes poco tradicionales y cuáles podrían ser sus principales 
+dudas o preocupaciones frente a un producto elaborado con alfalfa. 
+PAGE 9
+ 
+9 
+ 
+2.1.1. Usuario objetivo: perfil 
+El usuario objetivo está conformado por niños, jóvenes y adultos consumidores de postres y 
+productos de repostería en la ciudad de Cajamarca, especialmente aquellos que frecuentan 
+cafeterías, pastelerías o establecimientos similares a Bocatto. En el caso del público infantil, 
+también se considera importante la participación de los padres, debido a que suelen intervenir 
+directamente en la elección y compra de los alimentos. 
+Asimismo, dentro del perfil se consideran consumidores que muestran curiosidad por probar 
+nuevas preparaciones, aunque pueden presentar cierta desconfianza cuando se utilizan 
+ingredientes que no suelen relacionarse con la repostería. En el caso de la alfal fa, esta 
+percepción resulta especialmente importante debido a que su uso se encuentra asociado 
+principalmente con actividades agrícolas y ganaderas. Por ello, será necesario conocer si los 
+potenciales consumidores estarían dispuestos a aceptarla como ingre diente dentro de un 
+producto de repostería. 
+En el caso de los niños, se prestará especial atención a características como el sabor 
+agradable, la textura suave, el color, la presentación y el tamaño de la porción, mientras que 
+para los padres o cuidadores también será relevante conocer su percepción respecto a los 
+ingredientes y a la aceptación del producto por parte del menor. 
+El perfil establecido en esta primera etapa será considerado como una aproximación inicial. 
+Posteriormente, mediante los resultados obtenidos de la encuesta aplicada a 32 potenciales 
+consumidores, se determinará si estas características corresponden realme nte al público 
+objetivo y si existen otros factores relevantes que deban considerarse en el desarrollo del 
+producto. 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 10
+ 
+10 
+ 
+Perfil del usuario objetivo 
+Figura 1. Perfil del usuario objetivo del proyecto de queque de alfalfa para Bocatto, 
+Cajamarca. 
+ 
+2. 1. 2 Metodología de investigación: 
+Para el desarrollo del proyecto, se utilizó la encuesta como técnica principal de investigación, 
+con el objetivo de conocer los hábitos de consumo, preferencias, percepciones y posibles 
+preocupaciones de los potenciales consumidores frente a la propuesta de un queque de alfalfa 
+para Bocatto, Cajamarca. La encuesta fue aplicada a 32 personas y estuvo conformada por 
+10 preguntas, de las cuales 8 fueron cerradas y 2 abiertas. 
+El instrumento permitió recopilar información relacionada con la frecuencia de consumo de 
+postres, los principales criterios considerados al momento de elegirlos, la disposición para 
+probar productos elaborados con ingredientes poco tradicionales, el conoc imiento previo 
+sobre el uso de la alfalfa en alimentos, la intención de compra, el rango de precio aceptado 
+y las principales dudas vinculadas con el sabor, la textura, el color y la presentación del 
+producto. 
+
+PAGE 11
+ 
+11 
+ 
+Asimismo, la encuesta permitió aproximarse a las preferencias de un público diverso, 
+considerando niños, jóvenes y adultos como potenciales consumidores del producto. La 
+información obtenida será analizada para identificar patrones, necesidades y expectati vas 
+que permitan orientar el desarrollo del prototipo y realizar mejoras en sus características 
+sensoriales y de presentación. 
+De esta manera, los resultados servirán como base para comprender mejor al usuario y 
+procurar que la propuesta del queque de alfalfa para Bocatto responda a las preferencias 
+reales de los consumidores de Cajamarca. 
+Figura 2: Encuesta de aceptación del queque de alfalfa dirigida a potenciales 
+consumidores de Bocatto, Cajamarca.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A continuación, se presentan el link de los resultados obtenidos de la encuesta realizada: 
+https://docs.google.com/spreadsheets/d/1f4D2KTe8Lfox3AbVAScvx4rlzCeK4YSoOafp3_
+a2ugc/edit?usp=sharing 
+PAGE 12
+ 
+12 
+ 
+2. 1. 3 HALLAZGOS CLAVE 
+FRUSTRACIONES 
+● Preocupación de que el queque presente un sabor demasiado vegetal, amargo o 
+similar al pasto debido a la incorporación de alfalfa. 
+●  Dudas respecto a que la textura sea diferente a la de un queque tradicional, 
+especialmente que resulte seca, fibrosa o poco esponjosa. 
+●  Desconfianza inicial hacia la alfalfa por ser un ingrediente que normalmente se 
+relaciona con la alimentación animal y no con productos de repostería. 
+● Incertidumbre frente al color verde natural del producto y a si este resultará atractivo 
+visualmente. 
+●  Preocupación por que el precio sea elevado en comparación con otros postres 
+disponibles en cafeterías. 
+● Falta de información sobre el uso de la alfalfa como ingrediente en preparaciones 
+destinadas al consumo humano. 
+NECESIDADES 
+● Consumir un queque con sabor agradable y equilibrado, donde la presencia de la 
+alfalfa no sea demasiado intensa. 
+● Encontrar una textura suave, húmeda y esponjosa, similar a la esperada en un queque 
+tradicional. 
+● Contar con una presentación atractiva, especialmente considerando que el producto 
+también está dirigido a niños, jóvenes y adultos. 
+● Tener información clara sobre los ingredientes utilizados en la preparación y las 
+características del producto. 
+● Encontrar un producto con un precio accesible y acorde con el tamaño de la porción. 
+ 
+ 
+ 
+ 
+PAGE 13
+ 
+13 
+ 
+COMPORTAMIENTO 
+● Los consumidores suelen elegir sus postres principalmente considerando el sabor, la 
+presentación y el precio. 
+● Consumen productos como queques, tortas, brownies y otros postres de manera 
+periódica, especialmente como acompañamiento de bebidas o durante momentos de 
+descanso y socialización. 
+● Algunos consumidores muestran curiosidad y disposición para probar productos 
+elaborados con ingredientes diferentes a los tradicionales. 
+● Antes de comprar un producto nuevo, observa su apariencia, tamaño de la porción y 
+precio, y pueden considerar las recomendaciones de otras personas. 
+● Existe mayor disposición a probar el queque de alfalfa cuando se presenta como un 
+producto con buen sabor, textura agradable y apariencia atractiva. 
+● Frente a un producto desconocido, los consumidores pueden mostrar cierta cautela 
+inicialmente, pero están dispuestos a probarlo si la propuesta resulta atractiva y 
+genera confianza. 
+2. 1. 4 MAPA DE EMPATÍA 
+El mapa de empatía permitió comprender con mayor profundidad a los potenciales 
+consumidores del queque de alfalfa para Bocatto, Cajamarca. A partir de las respuestas 
+obtenidas se identificó que los usuarios sienten principalmente curiosidad frente a un 
+producto novedoso, pero al mismo tiempo presentan dudas relacionadas con el sabor, la 
+textura, el color y la seguridad del ingrediente. 
+Los consumidores buscan disfrutar de un postre agradable, pero también muestran interés 
+por alternativas que perciben como diferentes y con características nutricionales. El 
+desconocimiento sobre el uso de la alfalfa en la alimentación humana genera cierta  
+incertidumbre; sin embargo, esta barrera no elimina su disposición a probar el producto, ya 
+que la mayoría manifestó una intención favorable tanto de degustación como de compra. 
+De esta manera, el principal hallazgo de la fase de empatizar es que el reto no consiste 
+únicamente en elaborar un queque con alfalfa, sino en lograr que este ingrediente poco 
+convencional se transforme en un postre de sabor agradable, textura esponjosa, presentación 
+atractiva y que genere confianza en el consumidor. Estos resultados servirán como base para 
+la siguiente etapa de Design Thinking: la fase Definir. 
+PAGE 14
+ 
+14 
+ 
+Figura 2. Mapa de empatia  
+Interpretación del mapa de empatía: 
+El mapa de empatía evidencia que los potenciales consumidores de Bocatto, Cajamarca, 
+presentan una actitud favorable hacia propuestas de repostería diferentes, aunque la 
+aceptación del queque de alfalfa dependerá principalmente de que el producto mantenga un 
+sabor agradable y una buena textura. De los participantes, 16 de 32 señalaron al sabor como 
+la característica más importante, mientras que 13 priorizaron el valor nutricional y 3 la 
+textura. Además, 25 de 32 respondieron que definitivamente o probablemente comprarían el 
+producto si estuviera disponible en una cafetería. 
+Por lo tanto, el principal reto identificado es transformar la percepción de la alfalfa 
+tradicionalmente asociada a otros usos en la de un ingrediente capaz de formar parte de un 
+postre atractivo, agradable y confiable. El prototipo deberá enfocarse especi almente en 
+controlar la intensidad del sabor vegetal, mantener una textura suave y esponjosa, presentar 
+un color atractivo y comunicar de manera clara los ingredientes utilizados. 
+ 
+ 
+
+PAGE 15
+ 
+15 
+ 
+2. 2 FASE DEFINIR 
+2. 2. 1 DEFINICIÓN DEL PROBLEMA: RETO 
+¿Cómo podríamos desarrollar un queque de alfalfa para Bocatto , Cajamarca, que resulte 
+atractivo para niños, jóvenes y adultos, manteniendo un sabor agradable, una textura suave 
+y una presentación llamativa, de manera que reduzca las dudas de los consumidores frente 
+al uso de la alfalfa en productos de repostería? 
+2. 2. 2 SÍNTESIS DEL PROBLEMA: ANÁLISIS DE LA INFORMACIÓN 
+RECOLECTADA 
+A partir del análisis de la información recopilada mediante la encuesta aplicada a los 
+potenciales consumidores, se identificó que existe una disposición favorable hacia la 
+incorporación de productos innovadores dentro de la repostería. De las 3 2 respuestas 
+registradas en el archivo analizado, el 7 5 % indicó que definitivamente o probablemente 
+probaría un queque elaborado con alfalfa, lo cual evidencia interés inicial por conocer y 
+experimentar con una propuesta diferente. 
+Asimismo, los resultados permitieron identificar que uno de los principales factores que 
+condicionan la aceptación del producto es el sabor. El 5 0% de los participantes señaló este 
+atributo como la característica más importante, especialmente porque existe preocupación 
+respecto a que la alfalfa pueda generar un sabor vegetal intenso, amargo o similar al “pasto”. 
+Además, en las respuestas abiertas se repitieron dudas relacionadas con el sabor residual, el 
+aroma y la posibilidad de que el ingrediente altere demasiado las características tradicionales 
+de un queque. 
+Otro aspecto relevante es el interés por el valor nutricional percibido del producto. El 4 3,8 
+% de los participantes seleccionó este aspecto como una de las características principales 
+que consideraría al evaluar el queque. Sin embargo, también se identificó un importante nivel 
+de desconocimiento respecto al uso de la alfalfa en productos destinad os al consumo 
+humano, ya que el 7 5 % manifestó no conocer previamente preparaciones elaboradas con 
+este ingrediente. Este desconocimiento puede generar curiosidad,  pero también cierta 
+desconfianza respecto a su sabor, preparación, higiene y procedencia. 
+La textura también constituye un elemento importante en la percepción del consumidor. 
+Algunas respuestas manifestaron preocupación por la posibilidad de obtener un producto 
+seco, denso, fibroso o pastoso. Por ello, el prototipo deberá conservar las caracte rísticas 
+PAGE 16
+ 
+16 
+ 
+esperadas de un queque tradicional, principalmente una textura suave, húmeda y esponjosa, 
+evitando que la incorporación de la alfalfa perjudique la experiencia de consumo. 
+En cuanto a la apariencia, el color verde natural generado por la alfalfa produjo 
+principalmente sensaciones de curiosidad, novedad y sorpresa. Algunos participantes lo 
+asociaron con un producto natural, artesanal e innovador; sin embargo, otros manifestar on 
+cierta confusión o dudas respecto a si el color podría resultar poco apetecible. Esto demuestra 
+que la presentación final deberá ser visualmente atractiva para transformar el color 
+característico del producto en un elemento diferenciador y no en una bar rera para su 
+consumo. 
+Respecto al precio, el 84,4 % de los participantes manifestó estar dispuesto a pagar entre S/ 
+6,50 y S/ 8,50 por una tajada, lo cual proporciona un rango preliminar de referencia para el 
+análisis económico del proyecto. Asimismo, el 8 1,2 % señaló que definitivamente o 
+probablemente compraría el producto si estuviera disponible en una cafetería, mostrando una 
+intención de compra favorable. 
+En consecuencia, el problema identificado no consiste únicamente en incorporar alfalfa 
+dentro de un queque, sino en transformar un ingrediente poco relacionado con la repostería 
+en un producto que genere confianza y aceptación entre los consumidores. Para ello será 
+necesario lograr un equilibrio entre sabor, textura, presentación, precio e innovación, 
+considerando especialmente las dudas expresadas por los usuarios respecto a las 
+características sensoriales del producto. 
+INSIGHT DEL USUARIO: NUEVO RETO 
+El consumidor muestra curiosidad por probar un queque elaborado con alfalfa y reconoce el 
+atractivo de una propuesta diferente; sin embargo, su decisión de consumirlo dependerá 
+principalmente de que el producto mantenga un sabor agradable, textura esponjos a, 
+presentación atractiva y características que generen confianza. 
+A partir de este hallazgo se establece el siguiente nuevo reto: 
+¿Cómo podríamos transformar la alfalfa en un ingrediente atractivo dentro de un queque, 
+reduciendo la percepción de sabor vegetal y desarrollando un producto agradable, 
+innovador y accesible para los consumidores de Bocatto, Cajamarca? 
+PAGE 17
+ 
+17 
+ 
+2. 3 FASE IDEAR 
+2. 3. 1 GENERACIÓN DE IDEAS: LISTA DE IDEAS 
+A partir de los hallazgos identificados durante la fase de empatizar y de las necesidades de 
+los consumidores, se plantearon diferentes alternativas orientadas a incorporar la alfalfa en 
+productos de repostería de manera atractiva y agradable: 
+1. Queque tradicional de alfalfa, con sabor suave y textura esponjosa. 
+2. Queque de alfalfa con naranja, utilizando el aroma cítrico para equilibrar el sabor 
+vegetal. 
+3. Queque de alfalfa con limón, buscando una combinación fresca y ligeramente 
+cítrica. 
+4. Queque de alfalfa con chocolate, combinando ambos sabores para disminuir la 
+intensidad percibida de la alfalfa. 
+5. Muffins de alfalfa, presentados en porciones individuales. 
+6. Cupcakes de alfalfa, acompañados de una cobertura ligera y una presentación 
+atractiva. 
+7. Mini queques de alfalfa, dirigidos especialmente a consumidores que desean probar 
+primero una porción pequeña. 
+8. Galletas elaboradas con alfalfa, como alternativa de consumo práctico. 
+9. Brownie con incorporación de alfalfa, combinando un sabor conocido con un 
+ingrediente diferente. 
+10. Queque marmoleado de alfalfa y vainilla, buscando mejorar la apariencia visual y 
+equilibrar el sabor. 
+11. Queque de alfalfa con cobertura de queso crema, para mejorar la presentación y 
+complementar el sabor. 
+12. Queque de alfalfa en porción individual para Bocatto, acompañado de una 
+presentación moderna orientada al consumo junto con café, infusiones u otras 
+bebidas. 
+ 
+ 
+ 
+PAGE 18
+ 
+18 
+ 
+2. 3. 2 SELECCIÓN DE LA MEJOR IDEA 
+Para seleccionar la alternativa más adecuada se considerarán criterios relacionados con los 
+principales hallazgos obtenidos de los usuarios: sabor, textura, innovación, facilidad de 
+elaboración, costo, presentación y aceptación potencial. 
+La alternativa seleccionada será el queque de alfalfa en porción individual, debido a que 
+permite controlar mejor la cantidad de alfalfa utilizada, realizar modificaciones rápidas en la 
+formulación, ofrecer una presentación adecuada para cafetería y respon der directamente a 
+las principales preocupaciones identificadas entre los consumidores. 
+Además, su formato permite realizar pruebas con distintas proporciones de alfalfa hasta 
+encontrar un equilibrio adecuado entre sabor, textura y apariencia. Esto resulta 
+especialmente importante porque la investigación mostró que el sabor constituye el principal 
+factor de preocupación y decisión entre los participantes. 
+2. 3. 3 JUSTIFICACIÓN DE LA IDEA 
+La elección del queque de alfalfa responde a la posibilidad de transformar una materia prima 
+tradicionalmente vinculada con la actividad agropecuaria de Cajamarca en una propuesta 
+diferente dentro de la repostería. Asimismo, permite aprovechar una preparac ión conocida 
+por los consumidores e introducir progresivamente un ingrediente poco convencional sin 
+modificar por completo la experiencia esperada de consumo. 
+La propuesta también responde directamente a los resultados obtenidos durante la fase de 
+empatizar. Los usuarios muestran curiosidad y disposición para probar el producto, pero 
+esperan principalmente un buen sabor, una textura agradable y una presentación atractiva. 
+Por ello, el desarrollo del prototipo se enfocará en reducir la intensidad del sabor vegetal de 
+la alfalfa, mantener una consistencia suave y esponjosa y presentar el producto de una 
+manera atractiva dentro de la oferta de Bocatto, Cajamarca. 
+Además, el formato de queque facilita el desarrollo de diferentes iteraciones durante la etapa 
+de prototipado, permitiendo modificar ingredientes, cantidades, presentación y tamaño de la 
+porción según los resultados obtenidos durante las pruebas con los usuarios. De esta manera, 
+la alternativa seleccionada presenta condiciones adecuadas para continuar hacia la siguiente 
+fase de la metodología Design Thinking. 
+ 
+PAGE 19
+ 
+19 
+ 
+2. 4 FASE PROTOTIPAR 
+La fase de prototipar permite convertir la idea seleccionada en una propuesta tangible que 
+pueda ser observada, evaluada y posteriormente mejorada a partir de la opinión de los 
+usuarios. Para el presente proyecto se desarrollará un prototipo físico y funcional de queque 
+de alfalfa, or ientado a evaluar principalmente sus características de sabor, textura, aroma, 
+color, presentación y tamaño de porción. 
+2. 4. 1 TIPO DE PROTOTIPO 
+El prototipo seleccionado será de tipo físico funcional, debido a que se elaborará una versión 
+real del queque de alfalfa utilizando ingredientes propios de una preparación de repostería e 
+incorporando alfalfa en una proporción previamente definida. 
+La finalidad del prototipo será comprobar si es posible incorporar este ingrediente sin afectar 
+negativamente las características que los consumidores esperan encontrar en un queque 
+tradicional. Se buscará obtener un producto con textura suave y esponjosa, sabor agradable, 
+aroma equilibrado y una presentación atractiva, considerando especialmente los resultados 
+obtenidos durante la fase de empatizar. 
+Asimismo, se planteará una presentación individual adecuada para una cafetería como 
+Bocatto, Cajamarca, debido a que este formato facilitará su degustación, comercialización y 
+posterior evaluación con los usuarios. 
+2. 4. 2 DESCRIPCIÓN DEL FUNCIONAMIENTO 
+La elaboración del prototipo comenzará con la selección y acondicionamiento de la alfalfa, 
+procurando utilizar hojas en condiciones adecuadas para su procesamiento. Posteriormente, 
+la materia prima será incorporada a la preparación del queque junto con los  demás 
+ingredientes de la formulación. 
+La mezcla será preparada buscando obtener una distribución homogénea de la alfalfa y 
+posteriormente será colocada en un molde para su proceso de horneado. Una vez finalizada 
+la cocción, se dejará enfriar el producto y se realizará su presentación en porcio nes 
+individuales.  
+Durante esta fase se observarán aspectos como el color interno y externo, aroma, humedad, 
+esponjosidad, intensidad del sabor vegetal y apariencia general, con la finalidad de 
+PAGE 20
+ 
+20 
+ 
+identificar posibles características que requieran ajustes antes de realizar el testeo con los 
+consumidores. 
+¿QUÉ PROBLEMA RESUELVE? 
+El prototipo busca responder a la necesidad identificada durante la investigación de contar 
+con una propuesta de repostería diferente e innovadora, pero que conserve las características 
+sensoriales que los consumidores consideran importantes. 
+Los resultados de la encuesta mostraron que una de las principales preocupaciones se 
+encuentra relacionada con el sabor de la alfalfa, especialmente ante la posibilidad de que 
+resulte demasiado vegetal o amargo. También se identificaron dudas relacionadas con la 
+textura, el color y la presentación del producto. Por ello, el prototipo permitirá comprobar si 
+estas barreras pueden reducirse mediante una formulación adecuada. 
+De esta manera, la propuesta busca transformar la percepción de la alfalfa como un 
+ingrediente poco convencional dentro de la repostería y presentarla en un producto conocido 
+por los consumidores, buscando un equilibrio entre innovación, buen sabor, textur a 
+agradable y presentación atractiva. 
+CARACTERÍSTICAS DEL PROTOTIPO  
+ 
+Luego de establecer las principales características del prototipo, se llevó a cabo el proceso 
+de elaboración del queque de alfalfa. Cada etapa fue registrada mediante fotografías con la 
+finalidad de evidenciar el procedimiento seguido y mostrar la transfor mación de la materia 
+
+PAGE 21
+ 
+21 
+ 
+prima hasta obtener el producto final. A continuación, se detallan las principales etapas del 
+proceso de preparación.  
+Ingredientes utilizados 
+Para la elaboración del primer prototipo del queque de alfalfa se seleccionaron y pesaron 
+previamente los ingredientes necesarios, procurando mantener cantidades definidas para 
+facilitar la preparación y permitir futuras modificaciones de la formulación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Una vez definidos y medidos los ingredientes necesarios para la elaboración del prototipo, 
+se procedió con el proceso de preparación del queque de alfalfa. Cada etapa fue registrada 
+PAGE 22
+ 
+22 
+ 
+mediante fotografías con la finalidad de evidenciar el desarrollo del producto, desde el 
+acondicionamiento de la alfalfa hasta la obtención del queque final. 
+ 
+Materiales y equipos utilizados 
+Para la elaboración del prototipo del queque de alfalfa se utilizaron utensilios y equipos 
+básicos de repostería, necesarios para pesar, mezclar, procesar y hornear los ingredientes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 23
+ 
+23 
+ 
+Los materiales y equipos empleados permitieron realizar de manera ordenada cada etapa de 
+la preparación, desde el pesaje y procesamiento de los ingredientes hasta el horneado y la 
+presentación final del prototipo. 
+Proceso de elaboración del prototipo: 
+Luego de identificar los ingredientes, materiales y equipos necesarios, se procedió con la 
+elaboración del primer prototipo del queque de alfalfa. El proceso fue registrado mediante 
+fotografías para evidenciar cada una de las etapas realizadas. 
+1. Pesaje de los ingredientes: 
+Se pesaron previamente los ingredientes de acuerdo con la formulación establecida. 
+Para el prototipo se utilizaron 273 g de harina y 21 g de alfalfa fresca, netamente de 
+materia prima, además de los demás ingredientes definidos en la receta. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 3. Pesaje de la alfalfa y la harina para la elaboración del prototipo. 
+2. Preparación de los ingredientes 
+Una vez realizadas las mediciones, se organizaron los ingredientes necesarios: 
+harina, huevos, leche, alfalfa, azúcar, polvo de hornear, mantequilla o margarina y 
+esencia de vainilla. 
+ 
+ 
+ 
+ 
+PAGE 24
+ 
+24 
+ 
+ 
+ 
+Figura 4. Ingredientes utilizados en la elaboración del queque de alfalfa. 
+3. Lavado y acondicionamiento de la alfalfa 
+La alfalfa fue seleccionada y lavada cuidadosamente antes de su procesamiento, 
+procurando retirar residuos o impurezas presentes en las hojas. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 5. Acondicionamiento de la alfalfa para su procesamiento. 
+4. Preparación de los huevos y el azúcar 
+Se colocaron los cuatro huevos en un recipiente y posteriormente se incorporaron 
+los 100 g de azúcar para iniciar la preparación de la mezcla. 
+ 
+ 
+ 
+ 
+Figura 6. Incorporación de los huevos y el azúcar. 
+5. Batido de la mezcla 
+Los huevos y el azúcar fueron batidos hasta obtener una mezcla uniforme y de 
+consistencia más ligera, que serviría como base para continuar incorporando los 
+demás ingredientes. 
+ 
+ 
+PAGE 25
+ 
+25 
+ 
+ 
+ 
+Figura 7. Batido de los huevos y el azúcar. 
+6. Procesamiento de la alfalfa 
+La alfalfa fue previamente pasada por agua hervida para quitar un poco el amargo 
+luego fue colocada en la licuadora con 6 cuchadas de leche, para obtener una 
+preparación líquida que facilitara su incorporación al queque. 
+ 
+ 
+ 
+ 
+Figura 8. Procesamiento de la alfalfa en la licuadora. 
+7. Filtrado del extracto de alfalfa 
+La preparación obtenida fue pasada por un colador, con la finalidad de filtrar el 
+zumo de alfalfa y separar los restos sólidos antes de incorporarlo a la mezcla. 
+ 
+ 
+ 
+ 
+Figura 9. Filtrado del extracto de alfalfa. 
+8. Incorporación de la alfalfa y demás ingredientes 
+El zumo de alfalfa fue incorporado progresivamente a la preparación. Asimismo, se 
+añadieron los demás ingredientes de la formulación: harina, leche, mantequilla o 
+margarina, polvo de hornear y esencia de vainilla, hasta obtener una mezcla 
+homogénea. 
+ 
+ 
+PAGE 26
+ 
+26 
+ 
+ 
+Figura 10. Mezcla final del prototipo del queque de alfalfa. 
+9. Colocación de la mezcla en el molde 
+Una vez obtenida una mezcla uniforme, esta fue vertida cuidadosamente en un 
+molde previamente preparado, procurando distribuirla de manera homogénea. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 11. Colocación de la mezcla en el molde. 
+10. Horneado del prototipo 
+Finalmente, el molde fue colocado en el horno para realizar la cocción del producto 
+hasta obtener el primer prototipo físico del queque de alfalfa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 12. Proceso de horneado del prototipo. 
+ 
+ 
+ 
+ 
+PAGE 27
+ 
+27 
+ 
+ 
+Obtención del prototipo terminado 
+Una vez finalizado el proceso de horneado, el queque fue retirado del horno y se dejó 
+enfriar antes de realizar su presentación final. El prototipo obtenido permitió 
+observar características como el color, la textura, la consistencia y la apariencia 
+general del producto, constituyendo la primera versión física del queque de alfalfa 
+para Bocatto, Cajamarca. 
+ 
+ 
+ 
+ 
+ 
+ 
+      Figura 13. Prototipo terminado del queque de alfalfa. 
+2. 5 FASE TESTEAR 
+2. 5. 1 Metodología de testeo 
+Una vez obtenido el prototipo del queque de alfalfa, se realizó una degustación con 8 
+personas, seleccionadas como potenciales consumidores del producto. El objetivo fue 
+conocer su percepción sobre las principales características del prototipo y recoger opiniones 
+que permitan identificar aspectos favorables y posibles mejoras. 
+Durante la degustación, los participantes evaluaron aspectos como el sabor, textura, aroma, 
+color, presentación y aceptación general del queque de alfalfa. Asimismo, se les solicitó 
+expresar comentarios y sugerencias respecto a su experiencia de consumo. 
+Participantes del testeo 
+La prueba fue realizada con un total de 8 personas, quienes degustaron una porción del 
+prototipo y brindaron su opinión de manera directa sobre las características del producto. 
+ 
+PAGE 28
+ 
+28 
+ 
+Aspectos evaluados 
+Aspecto Evaluación 
+Sabor Agrado e intensidad del sabor de la alfalfa 
+Textura Suavidad, humedad y esponjosidad 
+Aroma Aceptación del aroma del producto 
+Color Percepción del color verde natural 
+Presentación Apariencia general del queque 
+Aceptación Disposición a volver a consumirlo 
+Intención de compra Disposición a comprarlo en Bocatto 
+Mejora Sugerencias realizadas por los participantes 
+Resultados del testeo 
+La degustación del prototipo del queque de alfalfa se realizó con 8 participantes. Al finalizar 
+la prueba, los ocho participantes manifestaron una valoración favorable del producto, 
+indicando estar de acuerdo con las características observadas durante la degustación. 
+De manera general, los participantes mostraron aceptación hacia el sabor, textura, aroma, 
+color y presentación del queque. Asimismo, expresaron disposición para volver a 
+consumirlo, lo que representa un resultado favorable para la propuesta desarrollada. 
+Debido a que participaron 8 personas y las 8 expresaron una opinión favorable, se obtuvo 
+una aceptación del 100 % dentro del grupo de testeo. Este resultado corresponde únicamente 
+a las personas que participaron en esta prueba y servirá como referencia par a continuar 
+mejorando y validando el producto. 
+PAGE 29
+ 
+29 
+ 
+Evidencia del testeo 
+Como evidencia de la fase de testeo se realizó un registro audiovisual de la degustación, en 
+el cual se observa a los participantes probando el prototipo del queque de alfalfa y 
+expresando sus opiniones respecto al producto. 
+ 
+Figura 4: Videos de la degustación del prototipo del queque de alfalfa.  
+Enlace: 
+https://drive.google.com/drive/folders/1lfr5IxzuzQTUZ4EdqouKV5tlMWJFqkKL?usp=sh
+aring 
+PROBLEMAS DETECTADOS 
+Durante la prueba de degustación no se identificaron problemas significativos relacionados 
+con el sabor, textura, aroma, color o presentación del queque de alfalfa. Los participantes 
+mostraron una valoración favorable del prototipo y no manifestaron observ aciones que 
+requirieran modificaciones importantes en su formulación. 
+Sin embargo, se considera que el número de participantes fue reducido, por lo que futuras 
+evaluaciones con una mayor cantidad de consumidores permitirán confirmar los resultados 
+obtenidos e identificar nuevas oportunidades de mejora. 
+
+PAGE 30
+ 
+30 
+ 
+ 
+ITERACIONES Y MEJORAS 
+Debido a la buena aceptación obtenida durante el testeo, no fue necesario realizar cambios 
+importantes en la formulación del primer prototipo. 
+No obstante, como parte de un proceso de mejora continua, se propone continuar controlando 
+los siguientes aspectos del producto: 
+Aspecto Mejora o seguimiento propuesto 
+Sabor Mantener un equilibrio adecuado para evitar que la alfalfa tenga un 
+sabor demasiado intenso. 
+Textura Conservar una consistencia suave, húmeda y esponjosa. 
+Dulzor Mantener un nivel agradable para los consumidores. 
+Color Conservar el color característico del producto procurando una 
+apariencia atractiva. 
+Presentación Mejorar progresivamente la presentación individual para su posible 
+venta en cafetería. 
+Tamaño de 
+porción 
+Definir una porción adecuada considerando precio y satisfacción 
+del consumidor. 
+Resultado final de la fase Testear 
+La fase de testeo permitió comprobar que el queque de alfalfa obtuvo una aceptación 
+favorable entre los participantes, por lo que el prototipo puede continuar hacia una 
+evaluación de su viabilidad. Los resultados obtenidos servirán como base para analizar si la 
+propuesta puede ser desarrollada desde los aspectos de mercado, producción y costos. 
+PAGE 31
+ 
+31 
+ 
+ 
+V. ANÁLISIS DEL PROYECTO 
+3.1 VIABILIDAD  
+• MERCADO 
+El análisis de mercado permite evaluar el nivel de aceptación que podría tener el queque de 
+alfalfa para Bocatto, Cajamarca, tomando como referencia la opinión de los potenciales 
+consumidores y los resultados obtenidos durante la fase de testeo. 
+De las 31 respuestas registradas en la encuesta, el 74,2 % de los participantes indicó que 
+definitivamente o probablemente probaría un queque elaborado con alfalfa, lo que demuestra 
+una disposición favorable hacia productos de repostería diferentes a los t radicionales. 
+Asimismo, el 80,6 % manifestó que definitivamente o probablemente compraría el producto 
+si estuviera disponible en una cafetería, reflejando una intención de compra positiva dentro 
+del grupo consultado. 
+Otro aspecto importante corresponde al precio. El 83,9 % de los encuestados señaló estar 
+dispuesto a pagar entre S/ 6,50 y S/ 8,50 por una tajada, siendo este el rango de mayor 
+aceptación. Este resultado brinda una referencia para establecer posteriormente un precio de 
+venta que resulte accesible para los consumidores y que, al mismo tiempo, permita cubrir 
+los costos de producción. 
+También se identificó que el sabor constituye uno de los factores más importantes al 
+momento de decidir si consumir o no el producto. Algunos participantes expresaron 
+preocupación por la posibilidad de que la alfalfa genere un sabor demasiado vegetal o 
+amargo. Sin embargo, durante la degustación realizada con 8 personas, los participantes 
+manifestaron una percepción favorable respecto al sabor, textura, aroma, color y 
+presentación del prototipo. 
+Estos resultados muestran que existe un interés inicial hacia el producto y que la propuesta 
+puede diferenciarse dentro de la oferta de repostería de Bocatto. Por ello, se considera que 
+el proyecto presenta una viabilidad de mercado preliminar favorable, a unque sería 
+recomendable continuar realizando pruebas con un mayor número de consumidores para 
+confirmar su aceptación antes de una posible comercialización. 
+PAGE 32
+ 
+32 
+ 
+ 
+TÉCNICA 
+La viabilidad técnica permite determinar si el producto puede elaborarse utilizando los 
+recursos, ingredientes, equipos y conocimientos disponibles. En el caso del queque de 
+alfalfa, la elaboración del prototipo permitió comprobar que el proceso puede real izarse a 
+pequeña escala mediante procedimientos básicos de repostería. 
+Para la preparación se utilizaron ingredientes de fácil disponibilidad como harina, alfalfa 
+fresca, huevos, leche, azúcar, mantequilla o margarina, polvo de hornear y esencia de 
+vainilla. De igual manera, se emplearon materiales y equipos comunes, entre el los balanza 
+digital, recipientes, licuadora, colador, batidora, molde, cucharas medidoras y horno. 
+El proceso de elaboración comprendió distintas etapas: pesaje y preparación de los 
+ingredientes, acondicionamiento de la alfalfa, procesamiento y filtrado de su zumo, 
+preparación de la mezcla, incorporación de los ingredientes, colocación en el molde, 
+horneado, enfriado y presentación final. 
+La elaboración del primer prototipo permitió obtener aproximadamente 12 tajadas, las cuales 
+fueron utilizadas posteriormente en la fase de degustación. Esto demuestra que la propuesta 
+puede ser desarrollada utilizando recursos accesibles y sin requerir inicialmente maquinaria 
+especializada. 
+No obstante, para una futura producción comercial será necesario establecer una 
+estandarización del proceso, definiendo cantidades exactas de ingredientes, tiempos de 
+batido, temperatura y tiempo de horneado, tamaño de las porciones y condiciones de 
+almacenamiento. Asimismo, será importante mantener procedimientos adecuados de higiene 
+durante la manipulación y procesamiento de la alfalfa y los demás ingredientes. 
+En consecuencia, se considera que el proyecto presenta una viabilidad técnica preliminar 
+favorable, ya que el prototipo pudo ser elaborado satisfactoriamente utilizando ingredientes 
+y equipos disponibles. Sin embargo, será necesario continuar perfeccionand o y 
+estandarizando el proceso antes de una producción a mayor escala. 
+ 
+ 
+PAGE 33
+ 
+33 
+ 
+ 
+PLAN ECONÓMICO FINANCIERO 
+El plan económico financiero permite analizar los recursos necesarios para la elaboración 
+del queque de alfalfa para Bocatto, Cajamarca, así como determinar su costo de producción, 
+un posible precio de venta y el margen económico que podría obtenerse por s u 
+comercialización. 
+Para este análisis se tomó como referencia la formulación utilizada en el prototipo, el 
+rendimiento obtenido de 12 tajadas por queque y los costos proporcionados para los 
+ingredientes. Asimismo, se consideró como precio de venta referencial S/ 7.50 por taj ada, 
+debido a que este valor se encuentra dentro del rango de S/ 6.50 a S/ 8.50, seleccionado por 
+la mayoría de los participantes de la encuesta.  
+Inversión inicial del prototipo 
+La inversión inicial corresponde al monto necesario para elaborar una unidad del prototipo. 
+En este caso, no se considera la adquisición de equipos como horno, licuadora, balanza, 
+recipientes o moldes, debido a que estos materiales fueron utilizados como r ecursos 
+disponibles para la preparación. 
+Por ello, la inversión inicial se concentra principalmente en los ingredientes utilizados para 
+elaborar un queque. 
+Ingrediente Cantidad utilizada Costo considerado 
+Harina 273 g S/ 8.00 
+Alfalfa fresca 21 g S/ 1.00 
+Huevos 4 unidades S/ 2.00 
+Leche 160 g S/ 4.50 
+PAGE 34
+ 
+34 
+ 
+Azúcar 100 g S/ 3.00 
+Mantequilla o margarina 90 g S/ 4.50 
+Polvo de hornear 2 cucharaditas S/ 2.00 
+Esencia de vainilla 1 cucharadita S/ 2.50 
+TOTAL 
+ 
+S/ 27.50 
+Estos costos corresponden a los valores considerados para el proyecto. Si alguno de los 
+montos corresponde al precio de un paquete completo y no únicamente a la cantidad 
+utilizada, posteriormente puede realizarse un costeo más preciso. 
+Costos de producción: 
+El costo de producción representa el gasto necesario para obtener un queque de alfalfa listo 
+para ser dividido y comercializado. En la preparación realizada se obtuvo un rendimiento 
+aproximado de 12 tajadas. 
+Por lo tanto: 
+Costo por tajada = Costo total del queque ÷ Número de tajadas 
+Costo por tajada = S/ 27.50 ÷ 12 
+Costo por tajada = S/ 2.29 aproximadamente 
+Concepto Resultado 
+Costo total de producción S/ 27.50 
+Rendimiento 12 tajadas 
+PAGE 35
+ 
+35 
+ 
+Costo estimado por 
+tajada 
+S/ 2.29 
+Este resultado permite establecer una base para comparar el costo de elaboración con el 
+precio que los consumidores estarían dispuestos a pagar. 
+Precio de venta estimado  
+Los resultados obtenidos en la encuesta permitieron conocer la disposición de pago de los 
+potenciales consumidores. El 83.9 % seleccionó un precio comprendido entre S/ 6.50 y S/ 
+8.50 por tajada, siendo este el rango con mayor aceptación.  
+Considerando estos resultados, se propone preliminarmente un precio de: 
+S/ 7.50 por tajada 
+Este precio se encuentra dentro del rango preferido por los participantes y permite mantener 
+una diferencia favorable respecto al costo estimado de producción. 
+Concepto Monto 
+Costo estimado por tajada S/ 2.5 
+Precio de venta propuesto S/ 7.50 
+Margen bruto por tajada S/ 5.00 
+Por cada tajada comercializada a S/ 7.50 se obtendría, de manera preliminar, un margen bruto 
+aproximado de S/ 5.00, antes de considerar otros gastos operativos. 
+Ingreso estimado por un queque 
+Debido a que cada preparación produce aproximadamente 12 tajadas, el ingreso obtenido 
+por vender el queque completo en porciones sería: 
+Ingreso total = 12 tajadas × S/ 7.50 
+PAGE 36
+ 
+36 
+ 
+Ingreso total = S/ 90.00 
+ 
+Posteriormente: 
+Margen bruto = Ingreso total − Costo de producción 
+Margen bruto = S/ 90.00 − S/ 27.50 
+Margen bruto estimado = S/ 62.50 por queque 
+Concepto Cálculo Resultado 
+Tajadas obtenidas 12 12 
+Precio por tajada — S/ 7.50 
+Ingreso total 12 × S/ 7.50 S/ 90.00 
+Costo del queque — S/ 27.50 
+Margen bruto estimado S/ 90.00 − S/ 27.50 S/ 62.50 
+El margen bruto representa aproximadamente el 69.4 % de los ingresos por ventas, antes de 
+incorporar otros gastos del negocio. 
+Proyección económica 
+Debido a que todavía no se cuenta con un historial real de ventas, no resulta conveniente 
+establecer una cantidad fija como si fuera una demanda asegurada. Por ello, se presentan tres 
+escenarios referenciales de comercialización mensual. 
+ 
+ 
+PAGE 37
+ 
+37 
+ 
+ 
+Escenario Queques vendidos Tajadas 
+vendidas 
+Ingresos Costos Margen bruto 
+Bajo 10 120 S/ 900.00 S/ 275.00 S/ 625.00 
+Medio 20 240 S/ 1,800.00 S/ 550.00 S/ 1,250.00 
+Alto 30 360 S/ 2,700.00 S/ 825.00 S/ 1,875.00 
+Estos escenarios no representan una predicción de ventas, sino una referencia que permite 
+visualizar el comportamiento económico del producto si la demanda aumenta 
+progresivamente. 
+Por ejemplo, si se comercializaran 20 queques en un mes, equivalentes a 240 tajadas, los 
+ingresos alcanzarían aproximadamente S/ 1,800, mientras que el costo directo de producción 
+sería de S/ 550, obteniéndose un margen bruto aproximado de S/ 1,250 antes de otros gastos. 
+Resumen económico del producto 
+Indicador Resultado 
+Costo de producción por queque S/ 27.50 
+Rendimiento por queque 12 tajadas 
+Costo por tajada S/ 2.29 
+Precio de venta propuesto S/ 7.50 
+Margen bruto por tajada S/ 5.21 
+PAGE 38
+ 
+38 
+ 
+Ingreso por vender 12 tajadas S/ 90.00 
+Margen bruto por queque S/ 62.50 
+Margen bruto sobre ventas 69.4 % aprox. 
+Análisis de la viabilidad económica 
+El análisis realizado muestra que la propuesta presenta condiciones económicas preliminares 
+favorables. El costo estimado de elaboración de un queque es de S/ 27.50 y permite obtener 
+aproximadamente 12 tajadas, generando un costo unitario de S/ 2.29 por porción. 
+Por otro lado, el precio propuesto de S/ 7.50 se encuentra dentro del rango de pago señalado 
+por la mayoría de los consumidores encuestados, lo que permite establecer una diferencia 
+favorable entre el costo de producción y el posible precio de comercialización. 
+Si se venden las 12 tajadas obtenidas en una preparación, se generarían aproximadamente S/ 
+90.00 en ingresos, con un margen bruto estimado de S/ 62.50 por queque. Esto indica que el 
+producto podría tener potencial económico para continuar siendo evaluado d entro de la 
+oferta de Bocatto. 
+No obstante, estos resultados corresponden a un análisis preliminar. Para determinar la 
+rentabilidad real del producto será necesario incorporar otros costos asociados a una 
+operación comercial, como energía eléctrica o gas, mano de obra, empaque, transpor te, 
+almacenamiento, posibles pérdidas de producto y otros gastos propios del establecimiento. 
+Conclusión económica 
+En función de los costos considerados, el rendimiento obtenido y la disposición de pago 
+identificada en la encuesta, el queque de alfalfa presenta una viabilidad económica inicial 
+favorable. La propuesta permite obtener un margen positivo entre el costo es timado por 
+tajada y su precio de venta, aunque será necesario realizar un costeo más detallado antes de 
+su implementación comercial definitiva en Bocatto, Cajamarca. 
+ 
+PAGE 39
+ 
+39 
+ 
+ 
+ 
+VI. CONCLUSIONES 
+El desarrollo del proyecto permitió identificar que existe una aceptación inicial favorable 
+hacia la propuesta del queque de alfalfa para Bocatto, Cajamarca. De las 3 2 respuestas 
+registradas, el 75 % manifestó que definitivamente o probablemente probaría el producto y 
+el 81,2 % indicó que definitivamente o probablemente lo compraría si estuviera disponible 
+en una cafetería, evidenciando interés por una alternativa diferente dentro de la repostería.  
+La aplicación de la metodología Design Thinking permitió comprender mejor las 
+necesidades, preferencias y preocupaciones de los consumidores. Se identificó que los 
+aspectos más importantes para la aceptación del producto son el sabor, la textura, la 
+presentación, el precio y la confianza respecto al uso de la alfalfa como ingrediente. Estos 
+hallazgos permitieron orientar la elaboración del prototipo hacia una propuesta más cercana 
+a las expectativas del usuario. 
+La fase de prototipado demostró que el queque de alfalfa puede elaborarse a pequeña escala 
+mediante ingredientes accesibles y equipos básicos de repostería. La preparación permitió 
+obtener aproximadamente 12 tajadas y posteriormente realizar una degustació n con 8 
+participantes, quienes mostraron conformidad con las características generales del producto, 
+especialmente en sabor, textura, aroma, color y presentación. 
+Desde el punto de vista económico, el proyecto presenta condiciones preliminares 
+favorables. Con los costos considerados, la elaboración de un queque representa 
+aproximadamente S/ 27,50, mientras que el precio de venta propuesto de S/ 7,50 por tajada 
+se encuentra dentro del rango de S/ 6,50 a S/ 8,50 elegido por la mayoría de los encuestados. 
+Esto indica que existe una diferencia favorable entre el costo estimado y el posible precio de 
+comercialización, aunque será necesario incorporar todos los gastos oper ativos para 
+determinar una rentabilidad definitiva. 
+Finalmente, se concluye que el queque de alfalfa representa una propuesta innovadora con 
+potencial para continuar desarrollándose dentro de Bocatto , Cajamarca. Como principales 
+oportunidades de mejora se recomienda ampliar las pruebas con un mayor número de 
+PAGE 40
+ 
+40 
+ 
+consumidores, estandarizar completamente la receta, evaluar las condiciones de 
+conservación y almacenamiento, perfeccionar la presentación final y realizar un costeo más 
+detallado antes de considerar su comercialización regular. 
+ 
+VII. REFERENCIAS BIBLIOGRÁFICAS 
+Banco Central de Reserva del Perú. (2026). Producción agropecuaria por principales 
+productos: Agrícola – mercado interno – alfalfa. BCRP.  
+ Estadísticas de producción de alfalfa – BCRP 
+Hadidi, M., Orellana -Palacios, J. C., McClements, D. J., Mahfouzi, M., & Moreno, A. 
+(2023). Alfalfa as a sustainable source of plant-based food proteins. Trends in Food Science 
+& Technology, 135 , 202 –214. https://doi.org/10.1016/j.tifs.2023.03.023  
+ Ver artículo en ScienceDirect 
+Latif, A., Sun, Y., & Noman, A. (2023). Herbaceous alfalfa plant as a multipurpose crop and 
+predominant forage specie in Pakistan. Frontiers in Sustainable Food Systems, 7, 1126151. 
+https://doi.org/10.3389/fsufs.2023.1126151 
+ Ver artículo completo en Frontiers 
+Ministerio de Desarrollo Agrario y Riego. (2025). MIDAGRI: Sector agropecuario creció 
+4,9 % el 2024 impulsado por el subsector agrícola y pecuario . Gobierno del Perú. En este 
+reporte se señala, entre otros resultados, un incremento de 8,8 % en la producción de alfalfa 
+durante 2024 . 
+ Ver información oficial del MIDAGRI 
+Ministerio de Desarrollo Agrario y Riego. (2025). Boletín Estadístico Mensual “El Agro en 
+Cifras” – 2025. MIDAGRI.  
+ Boletines El Agro en Cifras – MIDAGRI 
+Servicio Nacional de Meteorología e Hidrología del Perú. (2025). Análisis 
+agrometeorológico del cultivo de alfalfa y ryegrass en Cajamarca y Gregorio Pita, Perú: 
+Campaña 2024 –2025. SENAMHI.  
+ Ver informe de SENAMHI sobre alfalfa en Cajamarca 
+PAGE 41
+ 
+41 
+ 
+Tlahig, S., & Elfalleh, W. (2025). Alfalfa as a nutritional and functional food resource: 
+Applications and health benefits. Food Bioscience, 68 , 106762. 
+https://doi.org/10.1016/j.fbio.2025.106762 
+ Ver artículo en ScienceDirect 
+ 
+ 
+VIII. ANEXOS: 
+ 
+ 
+
+PAGE 42
+ 
+42 
+ 
+ 
+ 
+ 
+ 
+
+PAGE 43
+ 
+43 
+ 
+ 
+ 
+ 
+
+PAGE 44
+ 
+44 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+PAGE 45
+ 
+45 
+ 
+ 
